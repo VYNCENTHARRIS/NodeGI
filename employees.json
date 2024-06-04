@@ -1,0 +1,62 @@
+[
+    {
+        "employeeID": 1,
+        "name": "John Doe",
+        "salary": 50000,
+        "department": "Data Systems"
+    },
+    {
+        "employeeID": 2,
+        "name": "Jerry Smith",
+        "salary": 76000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 3,
+        "name": "Alice Williams",
+        "salary": 60000,
+        "department": "Sales"
+    },
+    {
+        "employeeID": 4,
+        "name": "David Lee",
+        "salary": 62000,
+        "department": "Mental Health"
+    },
+    {
+        "employeeID": 5,
+        "name": "Mickey Brown",
+        "salary": 98000,
+        "department": "Human Resources"
+    },
+    {
+        "employeeID": 6,
+        "name": "Emma Wilson",
+        "salary": 53000,
+        "department": "Finance"
+    },
+    {
+        "employeeID": 7,
+        "name": "Charles Miller",
+        "salary": 66500,
+        "department": "IT"
+    },
+    {
+        "employeeID": 8,
+        "name": "Samantha Oliver",
+        "salary": 78000,
+        "department": "Mergers and Aquisitions"
+    },
+    {
+        "employeeID": 9,
+        "name": "Liam Martin",
+        "salary": 110000,
+        "department": "Product Management"
+    },
+    {
+        "employeeID": 10,
+        "name": "Bonnie Taylor",
+        "salary": 58000,
+        "department": "Public Relations"
+    }
+]
